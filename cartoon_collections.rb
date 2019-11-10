@@ -4,7 +4,6 @@ def roll_call_dwarves(dwarfs)
     puts "#{index + 1}. #{name} "
   end
 end
-roll_call_dwarves(dwarfs)
 
 def summon_captain_planet(planeteer_calls)
   calls.collect do |call|
